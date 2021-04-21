@@ -16,7 +16,7 @@
 <img align="left" alt="Anuj's Github Stats" src="https://github-readme-stats.vercel.app/api?username=JindalAnuj&show_icons=true&hide_border=true&hide=issues,stars&count_private=true" />
 
 [website]: https://skjcorp.com
-[linkedin]: https://www.linkedin.com/in/anuj-jindal-91a68a139/
+[linkedin]: https://in.linkedin.com/in/anuj-jindal-profile
 
 <!--
 **jindalAnuj/jindalAnuj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
